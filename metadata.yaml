@@ -5,6 +5,9 @@ contributor:
     agent_name: Stainforth, Martin
     gutenberg_agent_id: '55569'
     url: http://www.gutenberg.org/2009/agents/55569
+covers:
+- cover_type: archival
+  image_path: 70050-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Austin, Ken
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '55568'
     url: http://www.gutenberg.org/2009/agents/55568
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70050#Racehorses-in-Australia
 gutenberg_issued: '2023-02-16'
 identifiers:
   gutenberg: '70050'
